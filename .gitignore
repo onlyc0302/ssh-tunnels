@@ -1,0 +1,11 @@
+/bin/
+/.test-state/
+*.log
+/dist/
+/release-tests/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
